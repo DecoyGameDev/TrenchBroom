@@ -54,7 +54,7 @@ GOTO END
 
 :ERROR
 
-echo "Building TrenchBroom failed"
+echo "Could Not Build TrenchBoom"
 exit /b 1
 
 :END
