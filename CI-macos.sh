@@ -11,6 +11,8 @@ pandoc --version
 
 # Build TB
 
+BUILD
+
 BUILD_TYPE_VALUE="Release"
 TB_ENABLE_ASAN_VALUE="NO"
 
